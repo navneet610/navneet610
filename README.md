@@ -1,6 +1,4 @@
 -  👋 Hi, I’m Navneet Singh
--
--  👀 I’m interested in ...
 - 
 -  🌱 I’m currently learning ReactJs and NodeJs
 - 
